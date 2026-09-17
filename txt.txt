@@ -16,3 +16,6 @@ npx tsc --init
     "skipLibCheck": true
   }
 }
+types
+controller
+routes
